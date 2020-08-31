@@ -6,10 +6,17 @@ public class Array_demo {
 
 		int a[] = new int[3];
 		
+		
+	System.out.println("Demooo");
+	System.out.println("Demooo");
+	System.out.println("Demooo");
+	System.out.println("Demooo");
+	
+		
 		a[0]=1;
 		a[1]=23;
 		a[2]=192;
-		//a[3]=23;
+	
 		
 		System.out.println(a[1]);
 		
